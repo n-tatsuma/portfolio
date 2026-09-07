@@ -21,3 +21,6 @@ JavaScriptを使用して制作したTodoアプリです。
 ## 学習・制作について
 HTML、CSS、JavaScriptの基礎学習から始め、DOM操作やイベント処理、localStorageを使ったデータ保存を学びながら制作しました。
 
+## 公開サイト
+［ポートフォリオを見る］(https://n-tatsuma.github.io/portfolio/)
+
