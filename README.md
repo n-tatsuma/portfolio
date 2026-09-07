@@ -24,4 +24,3 @@ HTML、CSS、JavaScriptの基礎学習から始め、DOM操作やイベント処
 ## 公開サイト
 ［ポートフォリオを見る］(https://n-tatsuma.github.io/portfolio/)
 
-更新テスト
