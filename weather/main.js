@@ -36,7 +36,7 @@ searchButton.addEventListener("click",async()=>{
     weatherCode===65||
     weatherCode===80||
     weatherCode===81||
-    weatherCode===82|
+    weatherCode===82
     ){
       weatherText="雨";
   }
